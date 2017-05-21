@@ -3,11 +3,11 @@ package module_2;
 /**
  * Created by dimas on 21.05.17.
  */
-public class Bank {
+public class Task_2 {
 
     public static void main(String[] args) {
 
-        Bank bank = new Bank();
+        Task_2 bank = new Task_2();
         bank.moneyWithdraw(100, 99);
     }
 
