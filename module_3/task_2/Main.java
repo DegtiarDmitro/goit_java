@@ -8,5 +8,9 @@ public class Main {
 
         Arithmetic arithmetic = new Arithmetic();
         System.out.println(arithmetic.add(5,7));
+
+
+        Adder adder = new Adder();
+        System.out.println(adder.check(5,7));
     }
 }
