@@ -5,16 +5,7 @@ package module_2;
  */
 public class Task_3 {
 
-    /*
-        nput
 
-
-        String ownerName = Ann
-        double withdrawal = 100;
-
-        Output
-        Ann 100 145
-    */
     public static void main(String[] args) {
 
         int[] balances = {1200, 250, 2000, 500, 3200};
@@ -22,7 +13,6 @@ public class Task_3 {
 
         Task_3 bank = new Task_3();
         bank.withdrawMoney(balances, ownerNames, "Jack", 400);
-
     }
 
 
