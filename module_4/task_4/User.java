@@ -17,7 +17,7 @@ public class User {
 
     @Override
     public String toString() {
-        return "User{" +
+        return "UserDao{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", balance=" + balance +

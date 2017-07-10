@@ -1,7 +1,7 @@
 package module_3.Task_4;
 
 /*
-Создайте класс User со следующими полями:
+Создайте класс UserDao со следующими полями:
  String name,
  int balance,
  int monthsOfEmployment,
@@ -111,7 +111,7 @@ public class User {
 
     @Override
     public String toString() {
-        return "User{" +
+        return "UserDao{" +
                 "name='" + name + '\'' +
                 ", balance=" + balance +
                 ", monthsOfEmployment=" + monthsOfEmployment +
